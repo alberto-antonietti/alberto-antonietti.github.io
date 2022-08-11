@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alberto Antonietti - personal website
+title: "Alberto Antonietti - personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
