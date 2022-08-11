@@ -3,7 +3,7 @@ permalink: /Professional Service/
 title: "Professional Service"
 author_profile: true
 redirect_from: 
-  - /ps/
+  - /md/
   - /professional_service.html
 ---
 
