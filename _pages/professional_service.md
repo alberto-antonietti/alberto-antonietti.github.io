@@ -4,7 +4,7 @@ title: "Professional Service"
 author_profile: true
 redirect_from: 
   - /md/
-  - /professional_service.html
+  - /professional_service.md
 ---
 
 ## Locations of key files/directories
